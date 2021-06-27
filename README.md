@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @umango101
+- 👀 I’m interested in computers, development economics, Broadway musicals, and comedy
+- 🌱 I’m currently learning Pytorch and NLP to advance my machine learning skills
